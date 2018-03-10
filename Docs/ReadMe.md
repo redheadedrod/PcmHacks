@@ -1,3 +1,6 @@
+J3542 Protocol Info:
+https://tunertools.com/prodimages/DrewTech/Manuals/PassThru_API-1.pdf
+
 VPW Protocol Info:
 
 http://www.fastfieros.com/tech/vpw_communication_protocol.htm
